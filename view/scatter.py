@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+#绘制平方函数的折线图
 plt.style.use('seaborn')
 fig,ax = plt.subplots()
 x_values = range(1,1001)
