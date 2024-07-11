@@ -44,9 +44,3 @@ def addUptoTen(numbers):
 
 response = pyip.inputCustom(addUptoTen)
 print(response)
-
-
-
-
-
-
