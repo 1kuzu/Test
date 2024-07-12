@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "d:\python_study\auto_work\debug_11.py", line 6, in <module>
+    raise Exception("一条抛出异常信息")
+Exception: 一条抛出异常信息
