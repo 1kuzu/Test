@@ -18,3 +18,10 @@ with open('website_baidu.html','wb') as f:
     for _ in website_0.iter_content(250):
         f.write(_)
 
+#用bs4模块解析html
+
+
+#用selenium模块控制浏览器
+
+
+
